@@ -1,0 +1,9 @@
+{
+"username"  : "standard_user",
+"password"  : "secret_sauce",
+"prod"      : ["Onesie","Backpack","Fleece Jacket"],
+"firstname" : "kannadasan",
+"lastname"  : "karthikeyan",
+"postalcode": "610101"
+
+}
